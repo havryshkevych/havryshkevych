@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Serhii%20Havryshkevych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Viktor%20Havryshkevych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const serhii = {
+const viktor = {
     location: "Ukraine 🇺🇦",
     currentFocus: "Building awesome web applications",
     funFact: "I debug with console.log and I'm not ashamed 😄"
@@ -118,4 +118,4 @@ const serhii = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
-<!-- Made with ❤️ by Serhii Havryshkevych -->
+<!-- Made with ❤️ by Viktor Havryshkevych -->
