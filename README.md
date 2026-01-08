@@ -23,14 +23,10 @@ const viktor = {
 };
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havryshkevych&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" width="320"/>
-
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm constantly learning **new technologies**
 - 💬 Ask me about **Web Development**
 - ⚡ Fun fact: **Coffee → Code → Repeat ☕**
-
-<br clear="right"/>
 
 ---
 
@@ -63,30 +59,13 @@ const viktor = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=havryshkevych&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=havryshkevych&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="180"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=havryshkevych&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/havryshkevych)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/havryshkevych)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/havryshkevych)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivi.ubunifu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://havryshkevych.dev)
 
 </div>
