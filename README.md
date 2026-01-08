@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Viktor%20Havryshkevych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=PHP+%2F+Laravel+Developer+%F0%9F%90%98;Backend+Engineer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=havryshkevych&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
@@ -15,18 +15,20 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const viktor = {
-    location: "Ukraine 🇺🇦",
-    currentFocus: "Building awesome web applications",
-    funFact: "I debug with console.log and I'm not ashamed 😄"
-};
+```php
+<?php
+
+$viktor = [
+    'location'      => 'Ukraine 🇺🇦',
+    'current_focus' => 'Building scalable backend systems',
+    'fun_fact'      => 'I love clean architecture & SOLID principles',
+];
 ```
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm constantly learning **new technologies**
-- 💬 Ask me about **Web Development**
-- ⚡ Fun fact: **Coffee → Code → Repeat ☕**
+- 🔭 I'm currently working on **Laravel applications**
+- 🌱 I'm constantly improving **backend architecture**
+- 💬 Ask me about **PHP, Laravel, PostgreSQL, Docker**
+- ⚡ Fun fact: **dd() is my best friend 😄**
 
 ---
 
@@ -35,25 +37,27 @@ const viktor = {
 <div align="center">
 
 ### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=pest&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-8B5CF6?style=for-the-badge&logo=php&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 </div>
 
