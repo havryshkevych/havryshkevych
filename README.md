@@ -67,11 +67,8 @@ const viktor = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=havryshkevych&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=havryshkevych&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=havryshkevych&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="180"/>
 </div>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=havryshkevych&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" width="100%"/>
 
 ---
 
@@ -79,14 +76,6 @@ const viktor = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=havryshkevych&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/havryshkevych/havryshkevych/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
