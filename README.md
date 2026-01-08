@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Viktor%20Havryshkevych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=PHP+%2F+Laravel+Developer+%F0%9F%90%98;Backend+Engineer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=PHP+%2F+Laravel+Developer+%F0%9F%90%98;Backend+Engineer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=havryshkevych&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
